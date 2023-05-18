@@ -1,0 +1,109 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  margin-left: 425px;
+  margin-top: 50px;
+}
+
+.main-div {
+  margin-top: 75px;
+  margin-left: 380px;
+  border: 15px solid rgb(171, 170, 170);
+  border-radius: 15px;
+  width: 265px;
+}
+
+.main-div2 {
+  border: 8px solid green;
+  background-color: green;
+  border-radius: 10px;
+  width: 250px;
+  height: 550px;
+}
+
+h2 {
+  color: white;
+  margin-top: ;
+  text-align: center;
+}
+
+.zaun {
+  width: 98%;
+  margin-top: ;
+  margin-left: ;
+  border: 2.5px solid rgb(184, 184, 184);
+  border-radius: 5px;
+}
+
+.pflanze {
+  position: absolute;
+  top: 300px;
+  left: 500px;
+  width: 5%;
+}
+
+h3 {
+  color: white;
+  margin-left: 40px;
+}
+
+.score-div {
+  position: absolute;
+  top: 500px;
+  left: 410px;
+  border: 2.5px solid rgb(170, 168, 168);
+  border-radius: 25px;
+  margin-top: 50px;
+  margin-left: 25px;
+  margin-right: 75px;
+  width: 200px;
+}
+
+.punkte-status {
+  font-weight: 15px;
+  background-color: rgb(2, 99, 209);
+  padding-top: 15px;
+  padding-left: 45px;
+  padding-bottom: 15px;
+  border-radius: 25px;
+}
+
+.score {
+  color: white;
+  margin-left: 15px;
+}
+
+.von {
+  color: white;
+  margin-left: 15px;
+}
+
+.total {
+  color: white;
+  margin-left: 15px;
+}
+
+.button-div {
+  width: 150px;
+  position: absolute;
+  top: 650px;
+  left: 455px;
+  border: 2px solid rgb(255, 254, 254);
+  border-radius: 25px;
+}
+
+#button {
+  width: 150px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  border-radius: 25px;
+  font-size: 15px;
+  color: white;
+  background-color: rgb(161, 159, 159);
+  cursor: pointer;
+}
